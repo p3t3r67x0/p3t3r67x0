@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://stadtplaner.oklabflensburg.de">
+    <img src="./assets/profile-banner.webp" alt="p3t3r67x0 — Open Source, Open Data and better cities" width="100%">
+  </a>
+</p>
+
 <div align="center">
 
-# 🗺️ p3t3r67x0
+# p3t3r67x0
 
 ### Open Source · Civic Tech · Open Data · GIS · Geospatial Engineering
 
